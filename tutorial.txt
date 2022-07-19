@@ -1,0 +1,10 @@
+01. env setup - install expo-cli
+npm install -g expo-cli
+
+02.create project
+ expo init app_name
+
+03. run app
+    npm start
+
+04.
